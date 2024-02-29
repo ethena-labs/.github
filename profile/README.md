@@ -7,8 +7,8 @@ Ethena's synthetic dollar, USDe, will provide the first censorship resistant, sc
 USDe peg stability is ensured through the use of delta hedging derivatives positions against  protocol-held collateral. 
 The 'Internet Bond' will combine yield derived from staked Ethereum as well as the funding & basis spread from perpetual and futures' markets, to create the first onchain crypto-native 'bond' that can function as a dollar-denominated savings instrument for users in permitted jurisdictions.
 
-Website: https://www.ethena.fi/
-Telegram: https://t.me/ethena_labs
-Discord: https://discord.gg/gEdJyvV6
-Twitter: https://twitter.com/ethena_labs
-LinkedIn: https://www.linkedin.com/company/ethena-labs/
+- Website: https://www.ethena.fi/
+- Telegram: https://t.me/ethena_labs
+- Discord: https://discord.gg/gEdJyvV6
+- Twitter: https://twitter.com/ethena_labs
+- LinkedIn: https://www.linkedin.com/company/ethena-labs/
