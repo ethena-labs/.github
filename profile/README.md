@@ -1,5 +1,3 @@
-## Ethena Labs
-
 Ethena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.
 
 Ethena's synthetic dollar, USDe, will provide the first censorship resistant, scalable and stable crypto-native solution for money achieved by delta-hedging staked Ethereum collateral. USDe will be fully backed transparently onchain and free to compose throughout DeFi.
