@@ -8,5 +8,5 @@ The 'Internet Bond' will combine yield derived from staked Ethereum as well as t
 - [Website](https://www.ethena.fi/)
 - [Telegram](https://t.me/ethena_labs)
 - [Discord](https://discord.gg/cepXWnXHaa)
-- [Twitter](https://twitter.com/ethena_labs)
+- [X](https://x.com/ethena)
 - [LinkedIn](https://www.linkedin.com/company/ethena-labs/)
